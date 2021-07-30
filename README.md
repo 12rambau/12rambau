@@ -11,16 +11,23 @@ When forced indoors, I follow and watch lots of movies and television shows, and
 
 ## currently working on
 
-[![sepal_ui](https://img.shields.io/badge/sepal_ui-forestgreen?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/12rambau/sepal_ui)
-[![sgt](https://img.shields.io/badge/Sepal%20geospatial%20toolkit-dodgerblue?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/12rambau/SGT)
-[![sepal_contrib](https://img.shields.io/badge/sepal%20contrib-forestgreen?style=for-the-badge&logo=jupyter&logoColor=white)](#)
-[![SEPAL](https://img.shields.io/badge/SEPAL-forestgreen?style=for-the-badge&logo=Javascript&logoColor=white)](https://github.com/openforis/sepal) 
+[![sepal_ui](https://github-readme-stats.vercel.app/api/pin/?username=12rambau&repo=sepal_ui&theme=yeblu)](https://github.com/12rambau/sepal_ui)
+[![SGT](https://github-readme-stats.vercel.app/api/pin/?username=12rambau&repo=SGT&theme=yeblu)](https://github.com/12rambau/SGT)
+[![sepal](https://github-readme-stats.vercel.app/api/pin/?username=openforis&repo=sepal&theme=yeblu)](https://github.com/openforis/sepal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=12rambau&repo=restoration_planning_module&theme=yeblu)](https://github.com/12rambau/restoration_planning_module)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=12rambau&repo=bfast&theme=yeblu)](https://github.com/openforis/bfast)
 
 ## coding stats 
 
 <p align="center">
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=12rambau&count_private=true&show_icons=true&custom_title=12rambau's%20stats&theme=yeblu">
+  <img src="https://github-readme-stats.vercel.app/api?username=12rambau&count_private=true&show_icons=true&custom_title=12rambau's%20stats&theme=yeblu">
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12rambau&layout=compact&theme=yeblu">
+</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=12rambau&layout=compact&theme=yeblu">
+</p> -->
 
 <p align="center">
   <img width="80%" alt="start coding" src="https://raw.githubusercontent.com/12rambau/12rambau/master/Grouting.gif">
