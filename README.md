@@ -17,13 +17,13 @@ When forced indoors, I follow and watch lots of movies and television shows, and
 ## 🏅🖼️ coding stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=12rambau&count_private=true&show_icons=true&custom_title=12rambau's%20stats&theme=yeblu">
+  <img src="https://github-readme-stats-eta-roan-78.vercel.app/api?username=12rambau&count_private=true&show_icons=true&custom_title=12rambau's%20stats&theme=yeblu">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=12rambau&layout=compact&theme=yeblu">
+  <img src="https://github-readme-stats-eta-roan-78.vercel.app/api/top-langs/?username=12rambau&layout=compact&theme=yeblu">
 </p>
 <!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=12rambau&layout=compact&theme=yeblu">
+  <img src="https://github-readme-stats-eta-roan-78.vercel.app/api/wakatime?username=12rambau&layout=compact&theme=yeblu">
 </p> -->
 
 <p align="center">
